@@ -1,0 +1,57 @@
+.line {
+    margin-top: 30px;
+    width: 100%;
+    background-color: greenyellow;
+    height: 25px;
+    margin-bottom: 10px;
+    transition: width;
+    transition-duration: 2s;
+}
+
+body:hover .line {
+    width: 20px;
+    background-color: rgb(255,0,234);
+    color: white;
+}
+
+.ease {
+    transition-timing-function: ease;
+    padding: 3px;
+    color: black;
+    font-weight: 700;
+}
+
+.linear{
+    transition-timing-function: linear;
+    padding: 3px;
+    color: black;
+    font-weight: 700;
+}
+
+.ease-in {
+    transition-timing-function: ease-in;
+    padding: 3px;
+    color: black;
+    font-weight: 700;
+}
+
+.ease-out {
+    transition-timing-function: ease-out;
+    padding: 3px;
+    color: black;
+    font-weight: 700;
+}
+
+.ease-in-out {
+    transition-timing-function: ease-in-out;
+    padding: 3px;
+    color: black;
+    font-weight: 700;
+}
+
+.cube-bezier {
+    transition-timing-function: cubic-bezier(0.175, 0.885, 0.35, 1.275);
+    padding: 3px;
+    color: black;
+    font-weight: 700;
+}
