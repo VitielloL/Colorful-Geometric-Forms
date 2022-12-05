@@ -6,11 +6,11 @@ body {
 }
 
 .wrapper a {
-    background-color: rgb(192, 212, 255);
+    background-color: white;
     padding: 10px;
-    border-radius: 10%;
+    border-radius: 8px;
     text-decoration: none;
-    color: rgb(98, 0, 255);
+    color: rgb(0, 110, 255);
     font-size: xx-large;
     font-weight: 700;
     margin-left: 35px;
