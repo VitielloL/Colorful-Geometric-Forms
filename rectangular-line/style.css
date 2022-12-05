@@ -19,6 +19,7 @@ body:hover .line {
     padding: 3px;
     color: black;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .linear{
@@ -26,6 +27,7 @@ body:hover .line {
     padding: 3px;
     color: black;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .ease-in {
@@ -33,6 +35,7 @@ body:hover .line {
     padding: 3px;
     color: black;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .ease-out {
@@ -40,6 +43,7 @@ body:hover .line {
     padding: 3px;
     color: black;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .ease-in-out {
@@ -47,6 +51,7 @@ body:hover .line {
     padding: 3px;
     color: black;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .cube-bezier {
@@ -54,4 +59,5 @@ body:hover .line {
     padding: 3px;
     color: black;
     font-weight: 700;
+    cursor: pointer;
 }

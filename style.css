@@ -14,5 +14,6 @@ body {
     font-size: xx-large;
     font-weight: 700;
     margin-left: 35px;
+    cursor: pointer;
 }
 
