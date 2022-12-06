@@ -1,0 +1,23 @@
+.ball {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    position: relative;
+    border-radius: 100%;
+    cursor: pointer;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-fill-mode: both;
+}
+
+@keyframes example {
+    from {
+        left:0px;
+        background-color: cyan;
+    }
+
+    to {
+        left: calc(100% - 100px);
+    }
+}
