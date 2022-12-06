@@ -5,15 +5,15 @@ body {
     height: 100vh; 
 }
 
-.wrapper a {
+a {
     background-color: white;
     padding: 10px;
     border-radius: 8px;
     text-decoration: none;
     color: rgb(0, 110, 255);
-    font-size: xx-large;
+    font-size: 20px;
     font-weight: 700;
-    margin-left: 35px;
+    /* margin-left: 20px; */
     cursor: pointer;
 }
 
