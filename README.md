@@ -1,4 +1,4 @@
-# colorful-geometric-forms
+# Colorful-Geometric-Forms
 
 Elementos na tela que sofrem modificações no CSS com Transition e Animation
 
